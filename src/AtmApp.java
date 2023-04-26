@@ -12,6 +12,11 @@ public class AtmApp {
         //abdullah1
         System.out.println("");
         //abdullah3
+        System.out.println();
+        if (true){
+            System.out.println();
+
+        }
 
 
 
